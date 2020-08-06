@@ -1,6 +1,3 @@
-(https://github.com/roseliaguiar/next-level-week-2/tree/master/screenshots)
-
-
 # Proffy.
 <p>Plataforma de estudos online<p>
   
