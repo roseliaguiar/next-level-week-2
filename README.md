@@ -9,7 +9,7 @@
 <p>Proffy - onde as pessoas podem escolher entre estudar ou dar aulas.</p>
 <p>Projeto desenvolvido durante a segunda edição do NLW - Next Level Week oferecido pela Rocketseat.</p>
   
-<h3> 🛠 Tecnologia </h3>
+<h3> 🛠 Tecnologias </h3>
   Foram utilizadas para a construção do projeto
   
   - [Node.js](https://nodejs.org/en/)
