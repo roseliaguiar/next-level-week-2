@@ -4,7 +4,8 @@
   Proffy
 </h2>
 
-<h3> :computer: Sobre o projeto<h3>
+<h3> :computer: Sobre o projeto </h3>
+
 <p>Proffy - onde as pessoas podem escolher entre estudar ou dar aulas.</p>
 <p>Projeto desenvolvido durante a segunda edição do NLW - Next Level Week oferecido pela Rocketseat.</p>
   
