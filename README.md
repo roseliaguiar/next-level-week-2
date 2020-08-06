@@ -1,3 +1,3 @@
 # next-level-week-2
-Projeto: Uma plataforma de estudos online.
+# Plataforma de estudos online.
 
