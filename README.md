@@ -1,3 +1,3 @@
 # Proffy.
-<p align="center">Plataforma de estudos online<p>
+<p>Plataforma de estudos online<p>
 
